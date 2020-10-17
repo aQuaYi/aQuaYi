@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 ## 我的项目
 
-[![AiR](https://github-readme-stats.vercel.app/api/pin/?username=aQuaYi&repo=AiR&theme=gruvbox)](https://github.com/aQuaYi/AiR)
+[![LeetCode in Go](https://github-readme-stats.vercel.app/api/pin/?username=aQuaYi&repo=LeetCode-in-Go&theme=gruvbox&hide_border=true)](https://github.com/aQuaYi/LeetCode-in-Go)
+[![AiR](https://github-readme-stats.vercel.app/api/pin/?username=aQuaYi&repo=AiR&theme=gruvbox&hide_border=true)](https://github.com/aQuaYi/AiR)
