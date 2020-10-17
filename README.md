@@ -6,7 +6,7 @@
 - 🧬 我正在学习： ![Go](https://img.shields.io/badge/Go-444444.svg?&style=flat-square&logo=Go&logoColor=00ADD8) ![Rust](https://img.shields.io/badge/Rust-444444.svg?&style=flat-square&logo=Rust&logoColor=black) ![Python](https://img.shields.io/badge/Python-444444.svg?&style=flat-square&logo=Python&logoColor=3776AB) ![Haskell](https://img.shields.io/badge/Haskell-444444.svg?&style=flat-square&logo=Haskell&logoColor=FD4F85)
 - 🧳 在这里找我： [![zhihu](https://img.shields.io/badge/-知乎-0084FF.svg?&style=flat-square&logo=zhihu&logoColor=white)](https://zhihu.com/people/aQuaYi) [![twitter](https://img.shields.io/badge/twitter-444444.svg?&style=flat-square&logo=twitter&logoColor=1DA1F2)](https://twitter.com/aQuaYi) [![instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/aQua.Yi/)](https://instagram.com/jlim_slam)
 - <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=EC5QZ3CP8r1UZD36S5mutEKGSJ3FRHFt&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Github 网友交流" title="Github 网友交流"></a>
-- <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=EC5QZ3CP8r1UZD36S5mutEKGSJ3FRHFt"><img border="0" src="https://img.shields.io/badge/QQ%20群-115%209353%20363-blue.svg" alt="Github交流QQ群:1159353363" title="Github交流QQ群:1159353363"></a>
+- <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=EC5QZ3CP8r1UZD36S5mutEKGSJ3FRHFt&jump_from=webapi"><img border="0" src="https://img.shields.io/badge/QQ%20群-115%209353%20363-blue.svg" alt="Github交流QQ群:1159353363" title="Github交流QQ群:1159353363"></a>
 
 # 汇总
 
