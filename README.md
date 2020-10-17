@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he\him
 - ⚡ Fun fact: ...
 
-![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aQuaYi&hide_langs_below=1&line_height=27&show_icons=true&hide_border=true&locale=cn&hide=javascript,html&theme=gruvbox&layout=compact&line_height=25) ![aQuaYi's Stats](https://github-readme-stats.vercel.app/api?username=aQuaYi&show_icons=true&count_private=true&include_all_commits=true&line_height=21&show_icons=true&theme=gruvbox&hide_border=true&locale=cn&hide_title=true)
+![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aQuaYi&hide_langs_below=1&line_height=27&show_icons=true&hide_border=true&locale=cn&hide=javascript,html&theme=prussian&layout=compact&line_height=25) ![aQuaYi's Stats](https://github-readme-stats.vercel.app/api?username=aQuaYi&show_icons=true&count_private=true&include_all_commits=true&line_height=21&show_icons=true&theme=prussian&hide_border=true&locale=cn&hide_title=true)
 
 ## 我的项目
 
-[![LeetCode in Go](https://github-readme-stats.vercel.app/api/pin/?username=aQuaYi&repo=LeetCode-in-Go&theme=gruvbox&hide_border=true)](https://github.com/aQuaYi/LeetCode-in-Go)
-[![AiR](https://github-readme-stats.vercel.app/api/pin/?username=aQuaYi&repo=AiR&theme=gruvbox&hide_border=true)](https://github.com/aQuaYi/AiR)
+[![LeetCode in Go](https://github-readme-stats.vercel.app/api/pin/?username=aQuaYi&repo=LeetCode-in-Go&theme=prussian&hide_border=true)](https://github.com/aQuaYi/LeetCode-in-Go)
+[![AiR](https://github-readme-stats.vercel.app/api/pin/?username=aQuaYi&repo=AiR&theme=prussian&hide_border=true)](https://github.com/aQuaYi/AiR)
