@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 </br>
 
 - 我正在学习： <img src="https://img.shields.io/badge/Go-444444.svg?&style=flat-square&logo=Go&logoColor=00ADD8"> <img src="https://img.shields.io/badge/Rust-444444.svg?&style=flat-square&logo=Rust&logoColor=black"> <img src="https://img.shields.io/badge/Python-444444.svg?&style=flat-square&logo=Python&logoColor=3776AB"> <img src="https://img.shields.io/badge/Haskell-444444.svg?&style=flat-square&logo=Haskell&logoColor=FD4F85">
+- 我正在学习： ![Go](https://img.shields.io/badge/Go-444444.svg?&style=flat-square&logo=Go&logoColor=00ADD8) ![Rust](https://img.shields.io/badge/Rust-444444.svg?&style=flat-square&logo=Rust&logoColor=black) ![Python](https://img.shields.io/badge/Python-444444.svg?&style=flat-square&logo=Python&logoColor=3776AB) ![Haskell](https://img.shields.io/badge/Haskell-444444.svg?&style=flat-square&logo=Haskell&logoColor=FD4F85)
 
 ## 汇总
 
