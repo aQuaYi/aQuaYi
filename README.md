@@ -30,15 +30,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-444444.svg?&style=flat-square&logo=Python&logoColor=3776AB">
 <img src="https://img.shields.io/badge/Haskell-444444.svg?&style=flat-square&logo=Haskell&logoColor=FD4F85">
 
-![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aQuaYi&hide_langs_below=1&line_height=27&show_icons=true&hide_border=true&locale=cn&hide=javascript,html&theme=prussian&layout=compact&line_height=25)
-![aQuaYi's Stats](https://github-readme-stats.vercel.app/api?username=aQuaYi&show_icons=true&count_private=true&include_all_commits=true&line_height=21&show_icons=true&theme=prussian&hide_border=true&locale=cn&hide_title=true)
-
 <a href="https://www.bilibili.com"><img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=aQuaYi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aQuaYi&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /></a>
 
 ## 我的项目
 
-[![LeetCode in Go](https://github-readme-stats.vercel.app/api/pin/?username=aQuaYi&repo=LeetCode-in-Go&theme=prussian&hide_border=true)](https://github.com/aQuaYi/LeetCode-in-Go)
-[![AiR](https://github-readme-stats.vercel.app/api/pin/?username=aQuaYi&repo=AiR&theme=prussian&hide_border=true)](https://github.com/aQuaYi/AiR)
+[![LeetCode in Go](https://github-readme-stats.vercel.app/api/pin/?username=aQuaYi&repo=LeetCode-in-Go&theme=graywhite&hide_border=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/aQuaYi/LeetCode-in-Go)
+[![AiR](https://github-readme-stats.vercel.app/api/pin/?username=aQuaYi&repo=AiR&theme=graywhite&hide_border=true&bg_color=0,73FA79,73FDFF,D783FF)](https://github.com/aQuaYi/AiR)
 
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=aQuaYi.aQuaYi" alt="visitor badge"/>
