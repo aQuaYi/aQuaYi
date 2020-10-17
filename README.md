@@ -1,10 +1,6 @@
 <h1> <img src="hi.gif" width="30px">哈喽！，我是 <a href="https://github.com/aQuaYi">aQua Yi</a> <img src="https://emojis.slackmojis.com/emojis/images/1531847273/4225/blob-beers.gif?1531847273" width="30px"></h1>
 </h1>
 
-- ⚡ Fun fact: ...
-
-**aQuaYi/aQuaYi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -21,6 +17,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/VSCode-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC">
 <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C">
 <img src="https://img.shields.io/badge/印象笔记-555555?style=flat-square&logo=Evernote&logoColor=00A82D">
+<img src="https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=F05032">
 <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6">
 <img src="https://img.shields.io/badge/PowerPoint-555555.svg?&style=flat-square&logo=microsoft-powerpoint&logoColor=B7274A">
